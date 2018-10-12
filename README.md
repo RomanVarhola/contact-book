@@ -1,4 +1,4 @@
-# contacts_book
+# Contact Book
 
-- npm i
-- npm start
+- `npm i`
+- `npm start`
